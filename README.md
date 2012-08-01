@@ -2,7 +2,11 @@
 
 >NotEver is not EverNote --- by c4pt0r
 
-***目前仅支持Lion及Moutain Lion，暂时不支持雪豹***
+***目前仅支持Lion及Moutain Lion，暂时不支持!雪豹!***
+
+##下载地址?
+
+[https://github.com/c4pt0r/notever/raw/master/NotEver.zip](https://github.com/c4pt0r/notever/raw/master/NotEver.zip)
 
 ##这是什么?
 
