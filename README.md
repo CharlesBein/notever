@@ -10,7 +10,7 @@
 
 ##这是什么?
 
-这是由[我](http://0xffff.me)利用有道笔记的OpenAPI开发的一个有道云笔记([http://note.youdao.com](http://note.youdao.com))的Mac客户端.
+这是由[我](http://0xffff.me)为有道笔记([http://note.youdao.com](http://note.youdao.com))开发的一个Mac客户端.
 由于有道迟迟未出官方的Mac客户端, 但是同时我又属于这个软件的忠实用户, 所以只好动手自己写一个.
 
 ##能干什么?
