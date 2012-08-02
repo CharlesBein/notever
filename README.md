@@ -6,7 +6,7 @@
 
 ##下载地址?
 
-[https://github.com/downloads/c4pt0r/notever/notever.zip](https://github.com/downloads/c4pt0r/notever/notever.zip)
+[https://github.com/c4pt0r/notever/raw/master/NotEver.zip](https://github.com/c4pt0r/notever/raw/master/NotEver.zip)
 
 ##这是什么?
 
